@@ -10569,8 +10569,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
-  background-size: cover;
-  height: 550px;
+  background-size: contain;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
