@@ -10515,16 +10515,15 @@ img::-moz-selection {
   height: 1.5rem;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: cairo;
   font-size: 0.95rem;
-  color: #fff;
+  color: rgb(255, 255, 255);
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: rgba(197, 100, 169, 255);
+  background-color: rgba(240, 255, 240, 0.185);
 }
 
 @media (min-width: 992px) {
