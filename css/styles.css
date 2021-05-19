@@ -10992,15 +10992,14 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-bottom: 2rem;
 }
 #in {
-  color: red
-  );
-  font-family: tajawal;
+  color: white;
 }
 #tw {
-  color: rgba(29, 161, 242, 255);
+  /*color: rgba(29, 161, 242, 255);*/
+  color: white;
 }
-#fb{
-  color: blue;
+#fb {
+  color: white;
 }
 .icn {
   display: flex;
@@ -11008,4 +11007,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   justify-content: space-between;
   justify-content: space-around;
   justify-content: space-evenly;
+}
+#phone,
+#p,
+#ma {
+  height: 1.7rem;
+  width: 1.7rem;
+  color: white;
 }
