@@ -395,7 +395,9 @@ h6,
 .h5,
 .h6 {
   margin-bottom: 0.5rem;
-  font-family: cairo;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
 }
@@ -10286,6 +10288,7 @@ a.text-dark:focus {
 
 .text-muted {
   color: #6c757d !important;
+  font-family: Tajawal;
 }
 
 .text-black-50 {
@@ -10452,12 +10455,12 @@ p {
   }
 }
 ::-moz-selection {
-  background: rgba(93, 152, 208, 255);
+  background: #fed136;
   text-shadow: none;
 }
 
 ::selection {
-  background: rgba(93, 152, 208, 255);
+  background: #fed136;
   text-shadow: none;
 }
 
@@ -10973,6 +10976,9 @@ section#contact form#contactForm :-ms-input-placeholder {
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
-p {
-  font-family: Tajawal;
+.my-3 {
+  font-family: cairo;
+}
+.subheading {
+  font-family: cairo;
 }
