@@ -10455,12 +10455,12 @@ p {
   }
 }
 ::-moz-selection {
-  background: #fed136;
+  background: rgba(93, 152, 208, 255);
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: rgba(93, 152, 208, 255);
   text-shadow: none;
 }
 
