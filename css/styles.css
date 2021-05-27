@@ -36,6 +36,10 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  --club-purple: rgba(143, 127, 189, 255);
+  --club-pink: rgba(197, 100, 169, 255);
+  --club-purple: rgba(95, 150, 207, 255);
+
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
