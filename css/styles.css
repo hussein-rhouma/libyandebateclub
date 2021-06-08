@@ -11033,3 +11033,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   font-family: cairo;
   font-size: 2.5rem;
 }
+
+.imtcont {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.texcen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
