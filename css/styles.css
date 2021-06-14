@@ -11049,6 +11049,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 .texcen:hover {
   background-color: rgba(131, 11, 11, 0.466);
+  height: 50%;
 }
 .imds {
   color: white;
