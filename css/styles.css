@@ -11064,4 +11064,5 @@ section#contact form#contactForm :-ms-input-placeholder {
   justify-content: space-around;
   grid-template-rows: 15% 15% 15% 15% 15% 15% 15% 15%;
   border-width: 3mm;
+  border: blue;
 }
