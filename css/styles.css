@@ -11055,8 +11055,8 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: white;
 }
 .acg {
-  height: 213px;
-  width: 320px;
+  height: auto;
+  width: 30vw;
 }
 .acgl {
   display: grid;
