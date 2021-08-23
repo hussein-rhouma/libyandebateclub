@@ -11063,5 +11063,25 @@ section#contact form#contactForm :-ms-input-placeholder {
   grid-template-columns: 30% 30% 30%;
   justify-content: space-around;
   grid-template-rows: 15% 15% 15% 15% 15% 15% 15% 15%;
-  
+}
+
+.gnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color: blueviolet;
+  height: 12vh;
+  float: right;
+  width: 100vw;
+}
+.gnli {
+  display: inline;
+  float: right;
+  padding-right: 12.5vw;
+  padding-top: 4vh;
+  height: 50px;
+}
+.gnli :hover {
+  background-color: cornflowerblue;
 }
