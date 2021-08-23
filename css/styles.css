@@ -11063,5 +11063,5 @@ section#contact form#contactForm :-ms-input-placeholder {
   grid-template-columns: 30% 30% 30%;
   justify-content: space-around;
   grid-template-rows: 15% 15% 15% 15% 15% 15% 15% 15%;
-  border: rgba(220, 53, 69, 0.9);
+  border-width: 3mm;
 }
