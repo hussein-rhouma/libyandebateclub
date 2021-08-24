@@ -10585,7 +10585,7 @@ img::-moz-selection {
   margin-top: auto;
 }
 
-header.masthead {
+header.eaead {
   padding-top: 10.5rem;
   padding-bottom: 8rem;
   text-align: center;
@@ -11088,6 +11088,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: cornflowerblue;
 }
 .navgb {
-  background-image: url(/assets/img/Debate_to_see/ntn.jpg);
-  background-repeat: repeat;
+  background-image: linear-gradient(
+    60deg,
+    rgba(197, 100, 169, 255),
+    rgba(95, 150, 207, 255)
+  );
 }
