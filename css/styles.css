@@ -11063,6 +11063,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   grid-template-columns: 30% 30% 30%;
   justify-content: space-around;
   grid-template-rows: 15% 15% 15% 15% 15% 15% 15% 15%;
+  background-image: url(/assets/img/Debate_to_see/ntn.jpg);
 }
 
 .gnav {
