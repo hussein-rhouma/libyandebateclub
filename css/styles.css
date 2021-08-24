@@ -11063,6 +11063,7 @@ section#contact form#contactForm :-ms-input-placeholder {
   grid-template-columns: 30% 30% 30%;
   justify-content: space-around;
   grid-template-rows: 15% 15% 15% 15% 15% 15% 15% 15%;
+  background-color: rgba(255, 255, 255, 0.486);
 }
 
 .gnav {
