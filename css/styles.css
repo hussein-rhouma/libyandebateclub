@@ -11092,5 +11092,5 @@ section#contact form#contactForm :-ms-input-placeholder {
     rgba(197, 100, 169, 255),
     rgba(95, 150, 207, 255)
   );
-  background-size: 400vh;
+  background-size: auto;
 }
