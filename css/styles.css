@@ -11121,7 +11121,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .gnavd {
   color: #212529;
-  position: fixed;
+  position: sticky;
 }
 .gnavd:hover {
   background-color: rgba(95, 150, 207, 0.3);
