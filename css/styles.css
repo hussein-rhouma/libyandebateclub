@@ -11095,7 +11095,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 #bsgn {
   background-color: #212529;
-  position: sticky;
+  position: fixed;
 }
 
 .gdropdown {
