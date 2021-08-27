@@ -11132,3 +11132,14 @@ section#contact form#contactForm :-ms-input-placeholder {
 a {
   text-decoration: none !important;
 }
+
+#sp {
+  border-style: solid;
+  border-color: rgba(197, 100, 169, 0.5);
+  border-width: 1mm;
+  background-color: rgba(195, 150, 207, 0.3);
+  height: 10vh;
+}
+#spp {
+  vertical-align: -15px;
+}
