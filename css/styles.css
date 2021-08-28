@@ -11143,3 +11143,13 @@ a {
 #spp {
   vertical-align: -15px;
 }
+.caption {
+  text-align: right;
+  font-family: tajawal;
+  margin: 2vw;
+  font-size: 1.2rem;
+  color: black;
+}
+.projtitle {
+  font-family: cairo;
+}
