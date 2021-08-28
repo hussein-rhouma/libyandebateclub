@@ -997,6 +997,8 @@ pre code {
   .col-sm-6 {
     flex: 0 0 50%;
     max-width: 50%;
+
+    margin-left: 5vw;
   }
 
   .col-sm-7 {
@@ -11152,4 +11154,8 @@ a {
 }
 .projtitle {
   font-family: cairo;
+}
+
+#aid {
+  margin-top: 85px;
 }
