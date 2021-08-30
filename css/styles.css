@@ -7864,7 +7864,7 @@ button.bg-dark:focus {
 .w-100 {
   width: 80% !important;
   height: 75vw;
-  margin-left: 10%;
+  margin-left: 10% !important;
 }
 
 .w-auto {
