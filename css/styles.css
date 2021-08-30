@@ -11182,3 +11182,14 @@ a {
   height: 90vh;
   width: 100vw;
 }
+#ymvl {
+  border-style: solid;
+  border-color: black;
+  border-width: 1mm;
+}
+
+.rowg{
+  display:flex;
+  justify-content: space-evenly;
+}
+
