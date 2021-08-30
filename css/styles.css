@@ -11156,9 +11156,7 @@ a {
   font-family: cairo;
 }
 
-#aid {
-  margin-top: 85px;
-}
-.aid {
+#aid,
+#plan {
   margin-top: 85px;
 }
