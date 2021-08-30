@@ -6245,7 +6245,6 @@ a.close.disabled {
   position: relative;
   width: 100%;
   overflow: hidden;
-  height: 50vh;
 }
 .carousel-inner::after {
   display: block;
@@ -10296,6 +10295,8 @@ a.text-dark:focus {
 .text-muted {
   color: #6c757d !important;
   font-family: Tajawal;
+  text-align: justify;
+  direction: rtl;
 }
 
 .text-black-50 {
