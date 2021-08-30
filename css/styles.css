@@ -6739,6 +6739,7 @@ button.bg-dark:focus {
 
 .d-block {
   display: block !important;
+  height: 50vh;
 }
 
 .d-table {
