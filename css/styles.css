@@ -11027,6 +11027,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 .icn {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   justify-content: space-between;
   justify-content: space-around;
@@ -11188,8 +11189,8 @@ a {
   border-width: 1mm;
 }
 
-.rowg{
-  display:flex;
+.rowg {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
-
