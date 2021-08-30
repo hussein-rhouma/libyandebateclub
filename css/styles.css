@@ -11160,3 +11160,8 @@ a {
 #plan {
   margin-top: 85px;
 }
+
+.gul {
+  list-style-position: inside;
+  direction: rtl;
+}
