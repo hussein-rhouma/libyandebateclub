@@ -6739,7 +6739,6 @@ button.bg-dark:focus {
 
 .d-block {
   display: block !important;
-  height: 80vh !important ;
 }
 
 .d-table {
@@ -7862,9 +7861,7 @@ button.bg-dark:focus {
 }
 
 .w-100 {
-  width: 80% !important;
-  height: 75vw;
-  margin-left: 10% !important;
+  width: 100% !important;
 }
 
 .w-auto {
@@ -11169,4 +11166,8 @@ a {
 .gul {
   list-style-position: inside;
   direction: rtl;
+}
+.slimg {
+  height: 90vh;
+  width: 100vw;
 }
