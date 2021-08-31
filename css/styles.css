@@ -6403,8 +6403,7 @@ a.close.disabled {
 }
 
 .carousel-caption {
-  position: relative;
-  bottom: 25vh;
+  position: static;
   /*left: 15%;
   right: 15%;*/
   z-index: 10;
