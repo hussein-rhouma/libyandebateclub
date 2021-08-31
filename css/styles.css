@@ -11180,7 +11180,7 @@ a {
   direction: rtl;
 }
 .slimg {
-  height: 80vh;
+  height: auto;
   width: 100vw;
 }
 #ymvl {
