@@ -11109,6 +11109,7 @@ section#contact form#contactForm :-ms-input-placeholder {
     rgba(95, 150, 207, 0.5)
   );
   background-size: auto;
+  margin-top: 0;
 }
 
 #bsgn {
