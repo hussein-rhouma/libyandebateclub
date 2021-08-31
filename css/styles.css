@@ -6319,6 +6319,7 @@ a.close.disabled {
   align-items: center;
   justify-content: center;
   width: 15%;
+  height: 100%;
   color: #fff;
   text-align: center;
   opacity: 0.5;
