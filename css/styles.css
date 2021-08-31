@@ -11182,6 +11182,7 @@ a {
 .slimg {
   height: 100vh;
   width: auto;
+  margin: auto;
 }
 #ymvl {
   border-style: solid;
