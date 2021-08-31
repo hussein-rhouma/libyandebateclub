@@ -6404,7 +6404,7 @@ a.close.disabled {
 
 .carousel-caption {
   position: relative;
-  bottom: 16.66vw;
+  bottom: 28vw;
   /*left: 15%;
   right: 15%;*/
   z-index: 10;
@@ -6417,7 +6417,7 @@ a.close.disabled {
   text-align: right;
   background-color: rgba(255, 255, 255, 0.267);
   width: 100vw;
-  height: 16.66vw;
+  height: 28vw;
   margin-bottom: 0;
   font-size: 3.5vw;
   direction: rtl;
