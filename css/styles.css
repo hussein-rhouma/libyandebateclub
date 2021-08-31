@@ -11251,8 +11251,3 @@ div.desc {
   display: table;
   clear: both;
 }
-.gres {
-  display: grid;
-  grid-template-columns: 50% 50% 50% 50%;
-  grid-template-rows: ;
-}
