@@ -11253,4 +11253,5 @@ div.desc {
 }
 .gres {
   display: grid;
+  grid-template-columns: auto;
 }
