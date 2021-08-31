@@ -11251,3 +11251,6 @@ div.desc {
   display: table;
   clear: both;
 }
+.gres {
+  display: grid;
+}
