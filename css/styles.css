@@ -6413,10 +6413,10 @@ a.close.disabled {
   padding-bottom: 20px;*/
   padding-right: 5vw;
   font-family: cairo;
-  color: black;
+  color: wheat;
   font-weight: bold;
   text-align: right;
-  background-color: rgba(255, 255, 255, 0.267);
+  background-color: rgba(15, 8, 8, 0.288);
   width: 100vw;
   height: 17vw;
   margin-bottom: 0;
