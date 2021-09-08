@@ -10302,7 +10302,7 @@ a.text-dark:focus {
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #000000 !important;
   font-family: Tajawal;
   text-align: justify;
   direction: rtl;
@@ -11252,4 +11252,18 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+#bout {
+  font-family: Tajawal;
+  text-align: justify;
+  direction: rtl;
+  font-weight: bold;
+}
+.bou {
+  width: 90vw;
+  height: auto;
+}
+.abim {
+  display: flex;
+  justify-content: space-around;
 }
