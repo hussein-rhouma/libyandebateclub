@@ -11173,7 +11173,8 @@ a {
   font-family: cairo;
 }
 
-#aid {
+#aid,
+.plan {
   margin-top: 85px;
 }
 
