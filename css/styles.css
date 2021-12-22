@@ -11277,3 +11277,8 @@ div.desc {
   direction: rtl;
   text-align: right;
 }
+
+.repimg {
+  width: 65vw;
+  float: right;
+}
