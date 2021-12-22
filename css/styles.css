@@ -11267,3 +11267,13 @@ div.desc {
   display: flex;
   justify-content: space-around;
 }
+.report {
+  margin: auto;
+
+  margin-right: 2%;
+}
+.reptitle {
+  font-family: cairo;
+  direction: rtl;
+  text-align: right;
+}
