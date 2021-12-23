@@ -11269,6 +11269,7 @@ div.desc {
 }
 .report {
   margin: auto;
+  display: block;
 
   margin-right: 2%;
 }
@@ -11282,4 +11283,8 @@ div.desc {
 .repimg {
   width: 80vw;
   float: right;
+}
+.reppar {
+  display: inline-block;
+  direction: rtl;
 }
