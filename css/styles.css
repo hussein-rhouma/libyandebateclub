@@ -11270,6 +11270,7 @@ div.desc {
 .report {
   margin: auto;
   display: block;
+  text-align: right;
 
   margin-right: 2%;
 }
@@ -11282,12 +11283,10 @@ div.desc {
 
 .repimg {
   width: 80vw;
-  float: right;
 }
 .reppar {
-  position: relative;
   direction: rtl;
-  float: right;
+  list-style-position: inside;
   text-align: right;
   font-family: tajawal;
   font-weight: 800;
