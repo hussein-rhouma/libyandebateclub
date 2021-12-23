@@ -11285,6 +11285,8 @@ div.desc {
   float: right;
 }
 .reppar {
-  display: inline-block;
+  position: relative;
   direction: rtl;
+  float: right;
+  text-align: right;
 }
