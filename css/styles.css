@@ -11279,6 +11279,7 @@ div.desc {
   direction: rtl;
   text-align: right;
   font-size: 24px;
+  font-weight: bold;
 }
 
 .repimg {
@@ -11289,7 +11290,7 @@ div.desc {
   list-style-position: inside;
   text-align: right;
   font-family: tajawal;
-  font-weight: 800;
+  font-weight: 550;
   color: black;
   font-size: 22px;
 }
