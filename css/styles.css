@@ -11284,6 +11284,7 @@ div.desc {
 
 .repimg {
   width: 80vw;
+  margin-top: 2vh;
 }
 .reppar {
   direction: rtl;
