@@ -11195,7 +11195,8 @@ a {
 .rowg {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
+  
 }
 .yacgl {
   height: fit-content;
